@@ -3,10 +3,8 @@ use_directory_urls: true
 docs_dir: wiki
 
 nav:
-  - Sub1:
-      - sub1/index.md
-  - Sub2:
-      - sub2/index.md
+  - Sub:
+      - sub/index.md
 
 theme:
   name: "material"
