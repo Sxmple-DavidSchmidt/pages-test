@@ -1,4 +1,4 @@
-# Sub2 - Mainpage
+# Sub - Mainpage
 
 Hello World
 
