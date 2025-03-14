@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Main Page","text":"<p>This is a test page. I am index.md! Have a look at this image:</p> <p></p>"},{"location":"sub/","title":"Sub - Mainpage","text":"<p>Hello World</p>"},{"location":"sub/#lorem-ipsum","title":"Lorem ipsum!","text":"<p>you know the drill...</p>"}]}
