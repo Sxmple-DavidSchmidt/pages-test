@@ -1,0 +1,24 @@
+site_name: My GitHub-Pages test
+use_directory_urls: true
+docs_dir: wiki
+
+nav:
+  - Sub1:
+      - sub1/index.md
+  - Sub2:
+      - sub2/index.md
+
+theme:
+  name: "material"
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - toc.integrate
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Sxmple-DavidSchmidt
+  generator: false
+
